@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cleanTest.FileTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-24T04:30:29" hostname="CSTT" time="47.9">
+  <properties/>
+  <testcase name="verifyCreateNewFile()" classname="cleanTest.FileTest" time="47.9"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[oct 24, 2022 12:30:43 A. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
